@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0149_001.yaml, hash: 'sha256:7af076430378bd8224a18591dd4532b408c1b34826df5e5ada6c52bb3eb13dd9'}
+  - {seq: 1, filename: KR3l0149_001.yaml, hash: 'sha256:268faca62d4d2f1ed8067fc37f0aa8d6482f2c2294915eb1a259453be048b965'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0149_001.markers.yaml, hash: 'sha256:66c0aff71dab422fd5a96a6b3d26df40421593761b41aeaa13347f4b7db349ae'}
+  - {seq: 1, role: markers, filename: assets/KR3l0149_001.markers.yaml, hash: 'sha256:8dc5c87b375a33d1546435d63f761c9b0f9a9e478ec68b257ab998d3d47b2098'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 孔氏志怪
   type: section
   level: 1
-hash: sha256:63cbfc67ecc8ea31acdfb6e19dd7f6b5fc8a2991ac342a56c422ea42f42d8422
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19c569175c8c190adcd9429ea1e229c80535b460d1d2f7e218f4487813f7ea63

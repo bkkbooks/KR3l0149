@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0149/v1
 canonical_location: https://kanripo.org/bkk/KR3l0149/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 孔氏志怪
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0149_001.yaml, hash: 'sha256:268faca62d4d2f1ed8067fc37f0aa8d6482f2c2294915eb1a259453be048b965'}
+  - {seq: 1, filename: KR3l0149_001.yaml, hash: 'sha256:27e25e4f69f22dc9771de8e657e33e886c6b0ec9391cdbb972451ac82f88f611'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0149_001.markers.yaml, hash: 'sha256:8dc5c87b375a33d1546435d63f761c9b0f9a9e478ec68b257ab998d3d47b2098'}
+  - {seq: 1, role: markers, filename: assets/KR3l0149_001.markers.yaml, hash: 'sha256:bc85d94fb0b87d596d5c2e50cffd5094a88047f32ab1fe8c43e8c5906d2d710c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 孔氏志怪
   type: section
   level: 1
-hash: sha256:19c569175c8c190adcd9429ea1e229c80535b460d1d2f7e218f4487813f7ea63
+hash: sha256:7a01c23f3a8dc41279295fedd13a16647b922f130ce9289ae2294b34b4618815
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
